@@ -1,0 +1,89 @@
+
+.lorem {
+    text-align: center;
+    padding: 150px;
+    color: rgb(255, 0, 0);
+    font-weight: 100;
+    font-family: 'Langar', cursive;
+  }
+  
+  .lorem2 {
+    text-align: center;
+    padding: 150px;
+    color: black;
+    font-weight: 100;
+    font-family: 'Langar', cursive;
+  }
+  .lorem3 {
+      display: grid;
+      grid-template-columns: auto;
+      background-color: white;
+  }
+  .brd2 {
+      border: 10px;
+      border-radius: 10px;
+      border-style: inset;
+      border-color: rgb(131, 9, 19);
+      padding: 10px;
+      background-color: white;
+  }
+  
+  .te{
+      width: 270px;
+      border: 2px solid rgb(209, 207, 207);
+      min-height: 40px;
+  }
+  
+  .text1{
+      position: absolute;
+      color: rgb(173, 167, 167);
+      margin-left: 1%;
+      margin-top: 5px;
+      font-size: 11px;
+  }
+  
+  .text2{
+      position: absolute;
+      color: rgb(173, 167, 167);
+      margin-left: 19%;
+      margin-top: 6px;
+      font-size: 11px;
+  }
+  
+  #textarea{
+      width: 560px;
+      height: 250px;
+      margin-left: 35.8%;
+      border: 2px solid rgb(209, 207, 207);
+  }
+  
+  
+  .text3{
+      font-size: 11px;
+      position: absolute;
+      color: rgb(173, 167, 167);
+      margin-left: 36%;
+      font-family: 'Langar', cursive;
+  }
+  
+  .przycisk {
+      margin-left: 45.4%;
+      background-color: rgb(219, 161, 161);
+      height: 40px;
+      width: 180px;
+      border: 1px solid #ff0000;
+      font-family: 'Langar', cursive;
+  }
+  .przycisk:hover {
+      background-color: rgb(255, 1, 1);
+  }
+  .menu{
+      margin-left: 33%;
+      font-family: 'Langar', cursive;
+  }
+  .email {
+      margin-left: 42.5%;
+      font-weight: 100;
+      font-family: 'Langar', cursive;
+  }
+  
